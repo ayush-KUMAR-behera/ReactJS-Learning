@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding:0;
+}
+
+body{
+  color:white;
+  background-color: black;
+}
+
+.card{
+  background-color:rgb(243, 81, 162);
+  color: rgb(55, 3, 68);
+  padding: 20px;
+  text-align: center;
+  margin: 10px;
+}
+nav{
+  background-color: goldenrod;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+nav>ul{
+  list-style: none;
+  display: flex;
+  gap: 200px;
+
+}
