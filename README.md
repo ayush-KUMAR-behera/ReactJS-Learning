@@ -14,4 +14,4 @@ and connecting them with Spring Boot REST APIs.
 
 - Day 1 — React Fundamentals
 - Day 2 — Components & Component Architecture
-- Day 3 — Coming Soon
+- Day 3 — Props

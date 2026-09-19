@@ -1,0 +1,24 @@
+body{
+  background-color: black;
+  color: wheat;
+}
+.card{
+  width: 320px;
+  border: 2px solid wheat;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  flex-wrap: wrap;
+  
+}
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.card-name{
+  color: red;
+}
+
