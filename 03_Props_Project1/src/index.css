@@ -1,0 +1,102 @@
+body{
+  background-color:#303e6ecf;
+  color: #e6daf1cf;
+}
+
+/* --- Course Card Styles --- */
+.course-card {
+  background-color: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 12px;
+  padding: 1.5rem;
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+  flex-wrap: wrap;
+  margin: 5px;
+}
+
+.course-card:hover {
+  transform: translateY(-4px);
+  border-color: #38bdf8;
+}
+
+.card-badge {
+  align-self: flex-start;
+  background-color: rgba(56, 189, 248, 0.15);
+  color: #38bdf8;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+}
+
+.card-icon {
+  font-size: 2.5rem;
+  margin: 0.25rem 0;
+}
+
+.card-title {
+  color: #f8fafc;
+  font-size: 1.15rem;
+  line-height: 1.4;
+  font-weight: 700;
+}
+
+.card-instructor {
+  color: #94a3b8;
+  font-size: 0.85rem;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #334155;
+}
+
+.card-rating {
+  font-size: 0.9rem;
+  color: #facc15; /* Yellow star */
+  font-weight: 600;
+}
+
+.card-price {
+  font-size: 1.1rem;
+  color: #38bdf8;
+  font-weight: 700;
+}
+
+/* --- Marketplace Layout --- */
+.marketplace-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 4rem 1.5rem;
+}
+
+.marketplace-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.marketplace-header h1 {
+  font-size: 2.25rem;
+  color: #f8fafc;
+  margin-bottom: 0.5rem;
+}
+
+.marketplace-header p {
+  color: #94a3b8;
+  font-size: 1rem;
+}
+
+.courses-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+  justify-content: center;
+}
