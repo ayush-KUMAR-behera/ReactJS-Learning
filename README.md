@@ -24,3 +24,4 @@ and connecting them with Spring Boot REST APIs.
 - Day 2 — Components & Component Architecture
 - Day 3 — Props
 - Day 4 — Props Project
+- Day 5 — CSS Modules

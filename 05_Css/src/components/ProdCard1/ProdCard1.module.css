@@ -1,0 +1,41 @@
+/* Exact same class name: .card */
+.card {
+  background-color: #064e3b; /* Dark emerald */
+  border: 2px solid #10b981; /* Bright green border */
+  border-radius: 12px;
+  padding: 1.5rem;
+  width: 280px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.2);
+}
+
+.itemImage {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Exact same class name: .title */
+.title {
+  color: #a7f3d0; /* Light mint */
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.price {
+  color: #34d399;
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 1.25rem;
+}
+
+/* Exact same class name: .btn */
+.btn {
+  background-color: #10b981; /* Green button */
+  color: #022c22;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 700;
+  cursor: pointer;
+  width: 100%;
+}
