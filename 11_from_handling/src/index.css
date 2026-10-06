@@ -1,0 +1,106 @@
+body{
+  background-color: rgb(12, 12, 61);
+  color: wheat;
+}
+
+input,button{
+  padding: 10px 20px;
+  margin: 20px
+  
+}
+
+input{
+  border: 3px solid greenyellow;
+}
+
+
+input:focus{
+  color: red;
+  border: 3px solid red;
+}
+body {
+  margin: 0;
+  padding: 2rem;
+  background-color: #0f172a;
+  color: #f8fafc;
+  font-family: system-ui, -apple-system, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.demo-container {
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 12px;
+  padding: 1.5rem;
+  max-width: 400px;
+  width: 100%;
+}
+
+.demo-container h2 {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  color: #38bdf8;
+}
+
+.demo-form {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.demo-form input {
+  flex: 1;
+  padding: 0.6rem 0.8rem;
+  border-radius: 6px;
+  border: 1px solid #475569;
+  background: #0f172a;
+  color: #ffffff;
+  outline: none;
+}
+
+.demo-form input:focus {
+  border-color: #38bdf8;
+}
+
+.demo-form button {
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  border: none;
+  background-color: #38bdf8;
+  color: #0f172a;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.demo-form button:hover {
+  background-color: #7dd3fc;
+}
+
+.submitted-section h3 {
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+  color: #94a3b8;
+}
+
+.empty-text {
+  font-size: 0.85rem;
+  color: #64748b;
+}
+
+.name-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.name-chip {
+  background: #334155;
+  padding: 0.3rem 0.75rem;
+  border-radius: 16px;
+  font-size: 0.85rem;
+  color: #e2e8f0;
+}

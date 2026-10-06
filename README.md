@@ -1,12 +1,11 @@
 # ReactJS Learning
 
-My React.js learning journey focused on building frontend applications
-and connecting them with Spring Boot REST APIs.
+My React.js learning journey focused on building frontend applications and connecting them with Spring Boot REST APIs.
 
 ## Goal
 
 - Learn React fundamentals
-- Build reusable frontend components
+- Build reusable components
 - Connect React with Spring Boot APIs
 - Build full-stack projects
 
@@ -19,6 +18,15 @@ and connecting them with Spring Boot REST APIs.
 - Day 5 — CSS Modules
 - Day 6 — Tailwind CSS
 - Day 7 — UI Project — Customer Segmentation
-- Day 8 — Functions & Events 
+- Day 8 — Functions & Events
 - Day 9 — useState
-- Day 10 - useSate-adv
+- Day 10 — useState Advanced
+- Day 11 — Form Handling
+
+## Tech Stack
+
+- React.js
+- JavaScript
+- Tailwind CSS
+- CSS Modules
+- Vite
