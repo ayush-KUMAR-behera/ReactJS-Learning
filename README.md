@@ -23,6 +23,7 @@ My React.js learning journey focused on building frontend applications and conne
 - Day 10 — useState Advanced
 - Day 11 — Form Handling
 - Day 12 — Notes App
+- Day 13 — Local Storage
 
 ## Tech Stack
 
