@@ -26,6 +26,7 @@ My React.js learning journey focused on building frontend applications and conne
 - Day 13 — Local Storage
 - Day 14 — API Calling with Axios/Fetch
 - Day 15 — useEffect
+- Day 16 — Gallery Project (Axios, useEffect & Pagination)
 
 ## Tech Stack
 
