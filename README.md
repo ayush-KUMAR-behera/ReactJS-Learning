@@ -28,7 +28,7 @@ My React.js learning journey focused on building frontend applications and conne
 - Day 15 — useEffect
 - Day 16 — Gallery Project (Axios, useEffect & Pagination)
 - Day 17 — React Router & Multi-Page Navigation
-
+- Day 18 — Advanced React Router (Nested Routes, Dynamic Routes, Navigation & 404)
 ## Tech Stack
 
 - React.js
